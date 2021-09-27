@@ -16,4 +16,5 @@ https://pub.dev/packages/flutter_login
 
 # Other information
 For backend design see https://github.com/Nollum/spurAPI
+
 For Devpost submission: https://devpost.com/software/spur-4x6fpv
